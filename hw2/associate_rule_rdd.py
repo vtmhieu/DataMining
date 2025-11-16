@@ -26,7 +26,7 @@ sc = spark.sparkContext
 sc.setLogLevel("ERROR")
 
 # Configuration
-min_support_threshold = 1000
+min_support_threshold = 500
 min_confidence_threshold = 0.6
 
 print("=" * 70)
