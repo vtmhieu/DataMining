@@ -27,7 +27,7 @@ sc.setLogLevel("ERROR")
 
 # Configuration
 min_support_threshold = 1000
-min_confidence_threshold = 0.5
+min_confidence_threshold = 0.6
 
 print("=" * 70)
 print("HIGH-PERFORMANCE APRIORI WITH SPARK - ASSOCIATION RULES")
